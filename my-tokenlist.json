@@ -1,0 +1,275 @@
+{
+  "name": "Mandala Ecosystem Token List",
+  "timestamp": "2025-09-06T16:30:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 2,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 369,
+      "address": "0x3a6c545c9E07e6d3041DC802033400F7fBf96c9a",
+      "name": "Mandala",
+      "symbol": "MDALA",
+      "decimals": 18,
+      "logoURI": "https://example.com/mdala.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0x242D5959672F9f73aa431B485F39aa946A82DD4D",
+      "name": "Maestro",
+      "symbol": "MSTRO",
+      "decimals": 18,
+      "logoURI": "https://example.com/mstro.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0xb5C985A42C61FdF46573479832EFD020E79ABD8F",
+      "name": "Geisha",
+      "symbol": "GEISH",
+      "decimals": 18,
+      "logoURI": "https://example.com/geish.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0x67d2c95c23877aD349671943293E0eF3Af7fc6Ec",
+      "name": "Satori",
+      "symbol": "STORI",
+      "decimals": 18,
+      "logoURI": "https://example.com/stori.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0xa16e2f4A56214061a4a1E4d7865A138D505d28b1",
+      "name": "FengShui",
+      "symbol": "FSHUI",
+      "decimals": 18,
+      "logoURI": "https://example.com/fshui.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0x95400e06C94bE8178f92e4daA3eDa6909db5ABf4",
+      "name": "Yinyang",
+      "symbol": "YYANG",
+      "decimals": 18,
+      "logoURI": "https://example.com/yyang.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0x1Bd1a74c107F0B4DEd166F167e162E0e5b710836",
+      "name": "Tantra",
+      "symbol": "TANTR",
+      "decimals": 18,
+      "logoURI": "https://example.com/tantr.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0x0704b52496056CBE168e511f1CB0d9DE049FABD8",
+      "name": "Dharma",
+      "symbol": "DHARM",
+      "decimals": 18,
+      "logoURI": "https://example.com/dharm.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0xE320AF6d4ABEDfcb1f96f156A0eB2a9B4D36E47D",
+      "name": "Samsara",
+      "symbol": "SSARA",
+      "decimals": 18,
+      "logoURI": "https://example.com/ssara.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0x0f72fF84E8b57b74d4C5e915d3d3109f28045ED8",
+      "name": "Transcend",
+      "symbol": "TCEND",
+      "decimals": 18,
+      "logoURI": "https://example.com/tcend.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0x29Fa9D03730E5c7224a3996AF870D9C07F2dD209",
+      "name": "Renaissance",
+      "symbol": "RENAI",
+      "decimals": 18,
+      "logoURI": "https://example.com/renai.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0x3EF4878344C88df86d695a6e58156F9d94A278D2",
+      "name": "Epiphany",
+      "symbol": "EPIPH",
+      "decimals": 18,
+      "logoURI": "https://example.com/epiph.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0xaf1EfD88115a90676f8EEef01C88b0C49F3e8e8b",
+      "name": "Si Dang Red",
+      "symbol": "DANG",
+      "decimals": 18,
+      "logoURI": "https://example.com/dang.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0xe6e5B8AB71e5A747A609796666D0E3A0a5eC8BFf",
+      "name": "Si Kao White",
+      "symbol": "KAO",
+      "decimals": 18,
+      "logoURI": "https://example.com/kao.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0x74a1942613008Aa6Fec06C27F796edE6460259c1",
+      "name": "Si Faa Blue",
+      "symbol": "SIFA",
+      "decimals": 18,
+      "logoURI": "https://example.com/sifa.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0x553D74B68faDb8156cAfa4165Cc2Ab588A0F4003",
+      "name": "Effect",
+      "symbol": "EFFECT",
+      "decimals": 18,
+      "logoURI": "https://example.com/effect.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0xeeCd4F241EBc0c77d6569a2cF09d1a9304E9cB1c",
+      "name": "Symphony",
+      "symbol": "SYMPH",
+      "decimals": 18,
+      "logoURI": "https://example.com/symph.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0xC90843A793e714fa3CBbFd84A60CcB9bA069dea0",
+      "name": "Blossom",
+      "symbol": "BLOSM",
+      "decimals": 18,
+      "logoURI": "https://example.com/blosm.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0x26b565954778A2661887a04A761C8057B99A80E9",
+      "name": "Awaken",
+      "symbol": "AWAKE",
+      "decimals": 18,
+      "logoURI": "https://example.com/awake.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0xE16E03923928f2c0B1EE7f7dC82a20f5C34F46B2",
+      "name": "Balance",
+      "symbol": "BLNCE",
+      "decimals": 18,
+      "logoURI": "https://example.com/blnce.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0x491127c99f093b120F20456e2A7C09E605F89Da3",
+      "name": "Flux",
+      "symbol": "FLUX",
+      "decimals": 18,
+      "logoURI": "https://example.com/flux.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0x600032F4a970CaBfD9565c62Def0e1593a4a5503",
+      "name": "PulseLove",
+      "symbol": "PLOVE",
+      "decimals": 18,
+      "logoURI": "https://example.com/plove.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0xC519E2705D930033DF7B8560FA2764a380fd6958",
+      "name": "Decree",
+      "symbol": "DCREE",
+      "decimals": 18,
+      "logoURI": "https://example.com/dcree.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0xD9F3f5674523Eaec7a011322D10135021ba699AB",
+      "name": "Cycle",
+      "symbol": "CYCLE",
+      "decimals": 18,
+      "logoURI": "https://example.com/cycle.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0x0dBbCfcD512E9f003454fc1907608a561Cd62709",
+      "name": "Ascend",
+      "symbol": "ASCND",
+      "decimals": 18,
+      "logoURI": "https://example.com/ascnd.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0xF6bBa46921521aE18c400D9577f7C9d0Afc81053",
+      "name": "Rebirth",
+      "symbol": "RBRTH",
+      "decimals": 18,
+      "logoURI": "https://example.com/rbrth.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0x37AFfcBE22281DdD9ab411171254877Ea8E9b1d1",
+      "name": "Lucent",
+      "symbol": "LCNT",
+      "decimals": 18,
+      "logoURI": "https://example.com/lcnt.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0x601f6D55a663249f0C679aEa5b960f29cdE691d8",
+      "name": "Red Pill",
+      "symbol": "RPILL",
+      "decimals": 18,
+      "logoURI": "https://example.com/rpill.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0xaba8718fAA833aC3Aa229AAD1EBf979ef595ef6D",
+      "name": "White Pill",
+      "symbol": "WPILL",
+      "decimals": 18,
+      "logoURI": "https://example.com/wpill.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0x77f80C7B24cD329a02732b9181c794037cF50919",
+      "name": "Blue Pill",
+      "symbol": "BPILL",
+      "decimals": 18,
+      "logoURI": "https://example.com/bpill.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0x894471c59Af3101893d83D01EE9B133a5da72E5A",
+      "name": "NEO",
+      "symbol": "NEO",
+      "decimals": 18,
+      "logoURI": "https://example.com/neo.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0x1621FEA108B6a9b006CF77B1e07F76A50152bB40",
+      "name": "The Way",
+      "symbol": "WAY",
+      "decimals": 18,
+      "logoURI": "https://example.com/way.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0xf75C854109Dadb1dcaa09d3fE1f9cA6D35942940",
+      "name": "Matrix Oracle",
+      "symbol": "MXORA",
+      "decimals": 18,
+      "logoURI": "https://example.com/mxora.png"
+    }
+  ]
+}

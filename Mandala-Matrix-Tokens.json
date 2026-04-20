@@ -1,13 +1,1 @@
-{
-    "tokens": [
-        {
-            "name": "Matrix Oracle",
-            "type": "oracle"
-        },
-        {
-            "name": "Cajun Sticky Chicken",
-            "type": "dish"
-        }
-    ],
-    "timestamp": "2026-04-20"
-}
+{"tokens":[{"name":"Matrix Oracle","symbol":"MOR","decimals":18},{"name":"Token 1","symbol":"TKN1","decimals":18},{"name":"Token 2","symbol":"TKN2","decimals":18},{"name":"Token 3","symbol":"TKN3","decimals":18},{"name":"Token 4","symbol":"TKN4","decimals":18},{"name":"Token 5","symbol":"TKN5","decimals":18},{"name":"Token 6","symbol":"TKN6","decimals":18},{"name":"Token 7","symbol":"TKN7","decimals":18},{"name":"Token 8","symbol":"TKN8","decimals":18},{"name":"Token 9","symbol":"TKN9","decimals":18},{"name":"Token 10","symbol":"TKN10","decimals":18},{"name":"Token 11","symbol":"TKN11","decimals":18},{"name":"Token 12","symbol":"TKN12","decimals":18},{"name":"Token 13","symbol":"TKN13","decimals":18},{"name":"Token 14","symbol":"TKN14","decimals":18},{"name":"Token 15","symbol":"TKN15","decimals":18},{"name":"Token 16","symbol":"TKN16","decimals":18},{"name":"Token 17","symbol":"TKN17","decimals":18},{"name":"Token 18","symbol":"TKN18","decimals":18},{"name":"Token 19","symbol":"TKN19","decimals":18},{"name":"Token 20","symbol":"TKN20","decimals":18},{"name":"Token 21","symbol":"TKN21","decimals":18},{"name":"Token 22","symbol":"TKN22","decimals":18},{"name":"Token 23","symbol":"TKN23","decimals":18},{"name":"Token 24","symbol":"TKN24","decimals":18},{"name":"Token 25","symbol":"TKN25","decimals":18},{"name":"Token 26","symbol":"TKN26","decimals":18},{"name":"Token 27","symbol":"TKN27","decimals":18},{"name":"Token 28","symbol":"TKN28","decimals":18},{"name":"Token 29","symbol":"TKN29","decimals":18},{"name":"Token 30","symbol":"TKN30","decimals":18},{"name":"Token 31","symbol":"TKN31","decimals":18},{"name":"Token 32","symbol":"TKN32","decimals":18},{"name":"Token 33","symbol":"TKN33","decimals":18},{"name":"Token 34","symbol":"TKN34","decimals":18}]}

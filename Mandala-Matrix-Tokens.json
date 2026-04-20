@@ -1,1 +1,381 @@
-{"tokens":[{"name":"Matrix Oracle","symbol":"MOR","decimals":18},{"name":"Token 1","symbol":"TKN1","decimals":18},{"name":"Token 2","symbol":"TKN2","decimals":18},{"name":"Token 3","symbol":"TKN3","decimals":18},{"name":"Token 4","symbol":"TKN4","decimals":18},{"name":"Token 5","symbol":"TKN5","decimals":18},{"name":"Token 6","symbol":"TKN6","decimals":18},{"name":"Token 7","symbol":"TKN7","decimals":18},{"name":"Token 8","symbol":"TKN8","decimals":18},{"name":"Token 9","symbol":"TKN9","decimals":18},{"name":"Token 10","symbol":"TKN10","decimals":18},{"name":"Token 11","symbol":"TKN11","decimals":18},{"name":"Token 12","symbol":"TKN12","decimals":18},{"name":"Token 13","symbol":"TKN13","decimals":18},{"name":"Token 14","symbol":"TKN14","decimals":18},{"name":"Token 15","symbol":"TKN15","decimals":18},{"name":"Token 16","symbol":"TKN16","decimals":18},{"name":"Token 17","symbol":"TKN17","decimals":18},{"name":"Token 18","symbol":"TKN18","decimals":18},{"name":"Token 19","symbol":"TKN19","decimals":18},{"name":"Token 20","symbol":"TKN20","decimals":18},{"name":"Token 21","symbol":"TKN21","decimals":18},{"name":"Token 22","symbol":"TKN22","decimals":18},{"name":"Token 23","symbol":"TKN23","decimals":18},{"name":"Token 24","symbol":"TKN24","decimals":18},{"name":"Token 25","symbol":"TKN25","decimals":18},{"name":"Token 26","symbol":"TKN26","decimals":18},{"name":"Token 27","symbol":"TKN27","decimals":18},{"name":"Token 28","symbol":"TKN28","decimals":18},{"name":"Token 29","symbol":"TKN29","decimals":18},{"name":"Token 30","symbol":"TKN30","decimals":18},{"name":"Token 31","symbol":"TKN31","decimals":18},{"name":"Token 32","symbol":"TKN32","decimals":18},{"name":"Token 33","symbol":"TKN33","decimals":18},{"name":"Token 34","symbol":"TKN34","decimals":18}]}
+{
+  "name": "Mandala Matrix Token List",
+  "timestamp": "2026-04-20T10:55:00Z",
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  },
+  "keywords": ["PulseChain", "Cajun", "Mandala Matrix"],
+  "logoURI": "https://scottlncs-crypto.github.io/Mandala-Matrix-Token-List/logo.png",
+  "tokens": [
+    {
+      "chainId": 369,
+      "address": "0x6134a99027754a9205c8dfd3bfa148a2b84de879",
+      "name": "Chardon",
+      "symbol": "CHDN",
+      "decimals": 18,
+      "logoURI": "https://scottlncs-crypto.github.io/Mandala-Matrix-Token-List/logos/chdn.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0x50267B39b3d1d7A71e97d5780F6A481EF7423AE0",
+      "name": "Cajun Trinity",
+      "symbol": "CTY",
+      "decimals": 18,
+      "logoURI": "https://scottlncs-crypto.github.io/Mandala-Matrix-Token-List/logos/cty.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0x294E00436B529dd9C26Bb995707D00B910ca03B3",
+      "name": "Feed Me",
+      "symbol": "FME",
+      "decimals": 18,
+      "logoURI": "https://scottlncs-crypto.github.io/Mandala-Matrix-Token-List/logos/fme.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0x20Fd7DC63Fa1B3cC93799C820Ec0433838c36e92",
+      "name": "Gumbo",
+      "symbol": "GBO",
+      "decimals": 18,
+      "logoURI": "https://scottlncs-crypto.github.io/Mandala-Matrix-Token-List/logos/gbo.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0x5aac9d8fBEDC758793173BBdfdB4f2FC9525DD77",
+      "name": "Jambalaya",
+      "symbol": "JBL",
+      "decimals": 18,
+      "logoURI": "https://scottlncs-crypto.github.io/Mandala-Matrix-Token-List/logos/jbl.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0x57e12D97d5502A391c480Ee4e21777790fd0e5F6",
+      "name": "Crawfish Etouffee",
+      "symbol": "CCE",
+      "decimals": 18,
+      "logoURI": "https://scottlncs-crypto.github.io/Mandala-Matrix-Token-List/logos/cce.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0x3c84E6EB4cA767996BCa9fCdDCe7F1bFE11eB30C",
+      "name": "Cajun Crawfish Boil",
+      "symbol": "CCB",
+      "decimals": 18,
+      "logoURI": "https://scottlncs-crypto.github.io/Mandala-Matrix-Token-List/logos/ccb.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0x1D5E997A9c606146D43AAaE038e1e8A3AB39A996",
+      "name": "Cajun Sauce Picant",
+      "symbol": "CSP",
+      "decimals": 18,
+      "logoURI": "https://scottlncs-crypto.github.io/Mandala-Matrix-Token-List/logos/csp.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0xc7f668cCa3656a926147C1b6803DCCDB7c45a82f",
+      "name": "Louisiana Po'boy",
+      "symbol": "LPB",
+      "decimals": 18,
+      "logoURI": "https://scottlncs-crypto.github.io/Mandala-Matrix-Token-List/logos/lpb.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0xD17213D6f6633954B51276bC0b3bE4f4413b3C1d",
+      "name": "Cajun Boudin",
+      "symbol": "CBN",
+      "decimals": 18,
+      "logoURI": "https://scottlncs-crypto.github.io/Mandala-Matrix-Token-List/logos/cbn.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0x0C99164486aae5F4558F047C3766fA508303feFE",
+      "name": "Cajun Cracklins",
+      "symbol": "CCN",
+      "decimals": 18,
+      "logoURI": "https://scottlncs-crypto.github.io/Mandala-Matrix-Token-List/logos/ccn.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0xDB863a07981F87043EE6bb5C0a6CB4CED8759bC5",
+      "name": "Cajun Maque Choux",
+      "symbol": "CMC",
+      "decimals": 18,
+      "logoURI": "https://scottlncs-crypto.github.io/Mandala-Matrix-Token-List/logos/cmc.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0x2610Ae404A5906b281a1cab66b4348a1587258Fd",
+      "name": "Cajun Sticky Chicken",
+      "symbol": "CSC",
+      "decimals": 18,
+      "logoURI": "https://scottlncs-crypto.github.io/Mandala-Matrix-Token-List/logos/csc.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0x3a6c545c9E07e6d3041DC802033400F7fBf96c9a",
+      "name": "Mandala",
+      "symbol": "MDALA",
+      "decimals": 18,
+      "logoURI": "https://example.com/mdala.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0x242D5959672F9f73aa431B485F39aa946A82DD4D",
+      "name": "Maestro",
+      "symbol": "MSTRO",
+      "decimals": 18,
+      "logoURI": "https://example.com/mstro.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0xb5C985A42C61FdF46573479832EFD020E79ABD8F",
+      "name": "Geisha",
+      "symbol": "GEISH",
+      "decimals": 18,
+      "logoURI": "https://example.com/geish.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0x67d2c95c23877aD349671943293E0eF3Af7fc6Ec",
+      "name": "Satori",
+      "symbol": "STORI",
+      "decimals": 18,
+      "logoURI": "https://example.com/stori.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0xa16e2f4A56214061a4a1E4d7865A138D505d28b1",
+      "name": "FengShui",
+      "symbol": "FSHUI",
+      "decimals": 18,
+      "logoURI": "https://example.com/fshui.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0x95400e06C94bE8178f92e4daA3eDa6909db5ABf4",
+      "name": "Yinyang",
+      "symbol": "YYANG",
+      "decimals": 18,
+      "logoURI": "https://example.com/yyang.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0x1Bd1a74c107F0B4DEd166F167e162E0e5b710836",
+      "name": "Tantra",
+      "symbol": "TANTR",
+      "decimals": 18,
+      "logoURI": "https://example.com/tantr.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0x0704b52496056CBE168e511f1CB0d9DE049FABD8",
+      "name": "Dharma",
+      "symbol": "DHARM",
+      "decimals": 18,
+      "logoURI": "https://example.com/dharm.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0xE320AF6d4ABEDfcb1f96f156A0eB2a9B4D36E47D",
+      "name": "Samsara",
+      "symbol": "SSARA",
+      "decimals": 18,
+      "logoURI": "https://example.com/ssara.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0x0f72fF84E8b57b74d4C5e915d3d3109f28045ED8",
+      "name": "Transcend",
+      "symbol": "TCEND",
+      "decimals": 18,
+      "logoURI": "https://example.com/tcend.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0x29Fa9D03730E5c7224a3996AF870D9C07F2dD209",
+      "name": "Renaissance",
+      "symbol": "RENAI",
+      "decimals": 18,
+      "logoURI": "https://example.com/renai.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0x3EF4878344C88df86d695a6e58156F9d94A278D2",
+      "name": "Epiphany",
+      "symbol": "EPIPH",
+      "decimals": 18,
+      "logoURI": "https://example.com/epiph.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0xaf1EfD88115a90676f8EEef01C88b0C49F3e8e8b",
+      "name": "Si Dang Red",
+      "symbol": "DANG",
+      "decimals": 18,
+      "logoURI": "https://example.com/dang.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0xe6e5B8AB71e5A747A609796666D0E3A0a5eC8BFf",
+      "name": "Si Kao White",
+      "symbol": "KAO",
+      "decimals": 18,
+      "logoURI": "https://example.com/kao.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0x74a1942613008Aa6Fec06C27F796edE6460259c1",
+      "name": "Si Faa Blue",
+      "symbol": "SIFA",
+      "decimals": 18,
+      "logoURI": "https://example.com/sifa.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0x553D74B68faDb8156cAfa4165Cc2Ab588A0F4003",
+      "name": "Effect",
+      "symbol": "EFFECT",
+      "decimals": 18,
+      "logoURI": "https://example.com/effect.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0xeeCd4F241EBc0c77d6569a2cF09d1a9304E9cB1c",
+      "name": "Symphony",
+      "symbol": "SYMPH",
+      "decimals": 18,
+      "logoURI": "https://example.com/symph.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0xC90843A793e714fa3CBbFd84A60CcB9bA069dea0",
+      "name": "Blossom",
+      "symbol": "BLOSM",
+      "decimals": 18,
+      "logoURI": "https://example.com/blosm.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0x26b565954778A2661887a04A761C8057B99A80E9",
+      "name": "Awaken",
+      "symbol": "AWAKE",
+      "decimals": 18,
+      "logoURI": "https://example.com/awake.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0xE16E03923928f2c0B1EE7f7dC82a20f5C34F46B2",
+      "name": "Balance",
+      "symbol": "BLNCE",
+      "decimals": 18,
+      "logoURI": "https://example.com/blnce.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0x491127c99f093b120F20456e2A7C09E605F89Da3",
+      "name": "Flux",
+      "symbol": "FLUX",
+      "decimals": 18,
+      "logoURI": "https://example.com/flux.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0x600032F4a970CaBfD9565c62Def0e1593a4a5503",
+      "name": "PulseLove",
+      "symbol": "PLOVE",
+      "decimals": 18,
+      "logoURI": "https://example.com/plove.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0xC519E2705D930033DF7B8560FA2764a380fd6958",
+      "name": "Decree",
+      "symbol": "DCREE",
+      "decimals": 18,
+      "logoURI": "https://example.com/dcree.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0xD9F3f5674523Eaec7a011322D10135021ba699AB",
+      "name": "Cycle",
+      "symbol": "CYCLE",
+      "decimals": 18,
+      "logoURI": "https://example.com/cycle.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0x0dBbCfcD512E9f003454fc1907608a561Cd62709",
+      "name": "Ascend",
+      "symbol": "ASCND",
+      "decimals": 18,
+      "logoURI": "https://example.com/ascnd.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0xF6bBa46921521aE18c400D9577f7C9d0Afc81053",
+      "name": "Rebirth",
+      "symbol": "RBRTH",
+      "decimals": 18,
+      "logoURI": "https://example.com/rbrth.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0x37AFfcBE22281DdD9ab411171254877Ea8E9b1d1",
+      "name": "Lucent",
+      "symbol": "LCNT",
+      "decimals": 18,
+      "logoURI": "https://example.com/lcnt.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0x601f6D55a663249f0C679aEa5b960f29cdE691d8",
+      "name": "Red Pill",
+      "symbol": "RPILL",
+      "decimals": 18,
+      "logoURI": "https://example.com/rpill.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0xaba8718fAA833aC3Aa229AAD1EBf979ef595ef6D",
+      "name": "White Pill",
+      "symbol": "WPILL",
+      "decimals": 18,
+      "logoURI": "https://example.com/wpill.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0x77f80C7B24cD329a02732b9181c794037cF50919",
+      "name": "Blue Pill",
+      "symbol": "BPILL",
+      "decimals": 18,
+      "logoURI": "https://example.com/bpill.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0x894471c59Af3101893d83D01EE9B133a5da72E5A",
+      "name": "NEO",
+      "symbol": "NEO",
+      "decimals": 18,
+      "logoURI": "https://example.com/neo.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0x1621FEA108B6a9b006CF77B1e07F76A50152bB40",
+      "name": "The Way",
+      "symbol": "WAY",
+      "decimals": 18,
+      "logoURI": "https://example.com/way.png"
+    },
+    {
+      "chainId": 369,
+      "address": "0xf75C854109Dadb1dcaa09d3fE1f9cA6D35942940",
+      "name": "Matrix Oracle",
+      "symbol": "MXORA",
+      "decimals": 18,
+      "logoURI": "https://example.com/mxora.png"
+    }
+  ]
+}

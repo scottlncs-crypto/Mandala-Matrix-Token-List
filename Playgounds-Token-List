@@ -1,0 +1,105 @@
+{
+  "name": "Mandala Matrix Token List",
+  "timestamp": "2026-04-20T10:50:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://scottlncs-crypto.github.io/Mandala-Matrix-Token-List/logo.png",
+  "keywords": ["PulseChain", "Cajun", "Mandala Matrix"],
+  "tokens": [
+    {
+      "chainId": 369,
+      "address": "0x6134a99027754a9205c8dfd3bfa148a2b84de879",
+      "name": "Chardon",
+      "symbol": "CHDN",
+      "decimals": 18
+    },
+    {
+      "chainId": 369,
+      "address": "0x50267B39b3d1d7A71e97d5780F6A481EF7423AE0",
+      "name": "Cajun Trinity",
+      "symbol": "CTY",
+      "decimals": 18
+    },
+    {
+      "chainId": 369,
+      "address": "0x294E00436B529dd9C26Bb995707D00B910ca03B3",
+      "name": "Feed Me",
+      "symbol": "FME",
+      "decimals": 18
+    },
+    {
+      "chainId": 369,
+      "address": "0x20Fd7DC63Fa1B3cC93799C820Ec0433838c36e92",
+      "name": "Gumbo",
+      "symbol": "GBO",
+      "decimals": 18
+    },
+    {
+      "chainId": 369,
+      "address": "0x5aac9d8fBEDC758793173BBdfdB4f2FC9525DD77",
+      "name": "Jambalaya",
+      "symbol": "JBL",
+      "decimals": 18
+    },
+    {
+      "chainId": 369,
+      "address": "0x57e12D97d5502A391c480Ee4e21777790fd0e5F6",
+      "name": "Crawfish Etouffee",
+      "symbol": "CCE",
+      "decimals": 18
+    },
+    {
+      "chainId": 369,
+      "address": "0x3c84E6EB4cA767996BCa9fCdDCe7F1bFE11eB30C",
+      "name": "Cajun Crawfish Boil",
+      "symbol": "CCB",
+      "decimals": 18
+    },
+    {
+      "chainId": 369,
+      "address": "0x1D5E997A9c606146D43AAaE038e1e8A3AB39A996",
+      "name": "Cajun Sauce Picant",
+      "symbol": "CSP",
+      "decimals": 18
+    },
+    {
+      "chainId": 369,
+      "address": "0xc7f668cCa3656a926147C1b6803DCCDB7c45a82f",
+      "name": "Louisiana Po'boy",
+      "symbol": "LPB",
+      "decimals": 18
+    },
+    {
+      "chainId": 369,
+      "address": "0xD17213D6f6633954B51276bC0b3bE4f4413b3C1d",
+      "name": "Cajun Boudin",
+      "symbol": "CBN",
+      "decimals": 18
+    },
+    {
+      "chainId": 369,
+      "address": "0x0C99164486aae5F4558F047C3766fA508303feFE",
+      "name": "Cajun Cracklins",
+      "symbol": "CCN",
+      "decimals": 18
+    },
+    {
+      "chainId": 369,
+      "address": "0xDB863a07981F87043EE6bb5C0a6CB4CED8759bC5",
+      "name": "Cajun Maque Choux",
+      "symbol": "CMC",
+      "decimals": 18
+    },
+    {
+      "chainId": 369,
+      "address": "0x2610Ae404A5906b281a1cab66b4348a1587258Fd",
+      "name": "Cajun Sticky Chicken",
+      "symbol": "CSC",
+      "decimals": 18
+    }
+  ]
+}
